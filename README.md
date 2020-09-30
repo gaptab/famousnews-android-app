@@ -18,9 +18,12 @@ Retrofit is a REST Client for Java and Android. Its use is very easy.
 • Prettytime for Convert Java Date() objects in just “a few minutes!”
 
 ## Get your API key
+
 https://newsapi.org/register
+
 Add you api key you got from newsapi.org in private.properties file's NEWS_API_KEY = "YOUR API KEY FROM NEWSAPI.ORG"
 
 ## About this project
 This app is based on
+
 https://github.com/haerulmuttaqin/PopularNews
