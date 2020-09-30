@@ -1,4 +1,4 @@
-# Newsletter
+# Famous News
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/mardous/Newsletter/blob/master/LICENSE)
 
 News application using the API from https://newsapi.org/
@@ -17,17 +17,10 @@ Retrofit is a REST Client for Java and Android. Its use is very easy.
 
 • Prettytime for Convert Java Date() objects in just “a few minutes!”
 
-## Clone this project
-
-Clone with HTTPS
-https://github.com/mardous/Newsletter.git
-
-Clone with SSH
-git@github.com:mardous/Newsletter.git
-
-Get your API key
+## Get your API key
 https://newsapi.org/register
+Add you api key you got from newsapi.org in private.properties file's NEWS_API_KEY = "YOUR API KEY FROM NEWSAPI.ORG"
 
 ## About this project
-This app was created by me mainly as a university project and is based on
+This app is based on
 https://github.com/haerulmuttaqin/PopularNews
