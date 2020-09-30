@@ -21,7 +21,7 @@ Retrofit is a REST Client for Java and Android. Its use is very easy.
 
 https://newsapi.org/register
 
-Add you api key you got from newsapi.org in private.properties file's NEWS_API_KEY = "YOUR API KEY FROM NEWSAPI.ORG"
+Add api key you got from newsapi.org to private.properties file --> NEWS_API_KEY = "YOUR API KEY FROM NEWSAPI.ORG"
 
 ## About this project
 This app is based on
